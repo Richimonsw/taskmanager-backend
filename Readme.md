@@ -4,7 +4,7 @@ Bienvenido al backend de la aplicación **Gestión de Tareas**, una solución AP
 
 ## 🌐 Aplicación en Producción
 
-Accede a la API desplegada en el siguiente enlace: [🔗 API en Producción](https://tu-api-dominio.com)
+Accede a la API desplegada en el siguiente enlace: [🔗 API en Producción](https://taskmanager-backend-production-b2f2.up.railway.app/)
 
 ---
 
@@ -125,6 +125,16 @@ El servidor estará disponible en `http://localhost:3000`.
 - **Express**: Framework minimalista y flexible para Node.js.
 - **MongoDB**: Base de datos NoSQL orientada a documentos.
 - **JWT**: Seguridad para la autenticación mediante tokens.
+- **Swagger**: Herramienta para documentar y probar APIs.
+
+---
+
+## 📘 Documentación Interactiva con Swagger
+
+La documentación interactiva de la API está disponible en el siguiente enlace:
+[🔗 Swagger UI](https://taskmanager-backend-production-b2f2.up.railway.app/api-docs/)
+
+Utiliza esta interfaz para explorar los endpoints, probar las funcionalidades y visualizar las especificaciones detalladas de la API.
 
 ---
 
